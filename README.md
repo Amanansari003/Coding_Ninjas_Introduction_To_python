@@ -22,7 +22,7 @@
 
 #### Each module is having the Notes ( pdf ) file by which the topics are easy to understand 
 
-all the module are organized and and mantained with the code file which gives and idea to go 
+all the module are organized and and mantained with the code file which gives the idea to go 
 from basic to medium  leven programing questions 
     
     
