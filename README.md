@@ -1,7 +1,7 @@
 # python-programs
- this file is containing the basic to some advanced python 
+ this file is containing from basic to some advanced python 
  problems which reallty help you to practice and make your idea clear to code 
- it starts with basic programs and goes to some medium level of the questions and  
+ it starts from the scratch and goes to some medium level of module and  
  all these content will give you the better idea of python progrming language 
  
  ### the topics covered in it are
